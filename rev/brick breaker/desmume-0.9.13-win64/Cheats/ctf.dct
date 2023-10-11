@@ -1,0 +1,8 @@
+; DeSmuME cheats file. VERSION 2.000
+Name=.
+Serial=Homebrew
+
+; cheats list
+DS 1 02060DBA00000011 ;
+DS 1 02060DB800000005 ;
+
